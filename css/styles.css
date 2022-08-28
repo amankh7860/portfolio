@@ -126,6 +126,8 @@ a{
 
 .contact{
     margin: 50px 0;
+    width: 50%;
+    margin: 30px auto;
 }
 
 hr{
