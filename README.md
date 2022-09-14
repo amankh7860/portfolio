@@ -1,5 +1,4 @@
 # portfolio
-Hi everyone this is my personal website
-here i have listed all my skills that i am currently proficient in.
+Hi everyone this is a basic landing page made by me in html and css.
 
 thank you :)
